@@ -4,6 +4,6 @@
 
     👋 bonjour à tous
     👀 SEBTECH-974
-    💞️ Développeur Web Ile de la Réunion....
-    📫 Laravel/Node/Mysql/Java/Swift
+    💞️ Développeur Intégrateur Web Ile de la Réunion....
+    📫 HTML/CSS/SASS/JAVASCRIPT/REACT/LARAVEL
 
